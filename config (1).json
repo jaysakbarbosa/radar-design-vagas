@@ -1,0 +1,113 @@
+{
+  "model": "groq/compound",
+  "reminder_days": [
+    7,
+    2
+  ],
+  "priority_keywords": [],
+  "models": [
+    "groq/compound",
+    "groq/compound-mini"
+  ],
+  "rag_models": [
+    "openai/gpt-oss-120b",
+    "qwen/qwen3.8-27b",
+    "openai/gpt-oss-20b"
+  ],
+  "browser_models": [
+    "openai/gpt-oss-120b"
+  ],
+  "mistral_models": [
+    "mistral-small-latest",
+    "mistral-medium-latest"
+  ],
+  "areas": [
+    {
+      "key": "grafico",
+      "label": "DESIGN GRÁFICO",
+      "emoji": "🎨",
+      "q_en": "graphic designer brand designer illustrator art director",
+      "q_pt": "designer gráfico brand designer ilustrador diretor de arte",
+      "themes": [
+        "remote graphic designer, brand designer, illustrator and art director jobs worldwide"
+      ],
+      "pt_themes": [
+        "vagas remotas de designer gráfico, brand designer, ilustrador e diretor de arte no Brasil"
+      ]
+    },
+    {
+      "key": "uiux",
+      "label": "DESIGN DE PRODUTO DIGITAL (UI/UX)",
+      "emoji": "📱",
+      "q_en": "UI UX product designer UX researcher design systems",
+      "q_pt": "UX UI designer product designer pesquisador UX design system",
+      "themes": [
+        "remote UI/UX designer, product designer, UX researcher and design systems jobs worldwide"
+      ],
+      "pt_themes": [
+        "vagas remotas de UX/UI designer, product designer, UX researcher e UX writer no Brasil"
+      ]
+    },
+    {
+      "key": "produto",
+      "label": "DESIGN DE PRODUTO (GERAL)",
+      "emoji": "📦",
+      "q_en": "industrial designer physical product designer CMF",
+      "q_pt": "designer de produto designer industrial CMF",
+      "themes": [
+        "remote industrial designer, physical product designer and CMF designer jobs worldwide"
+      ],
+      "pt_themes": [
+        "vagas remotas de designer de produto, designer industrial e CMF no Brasil"
+      ]
+    },
+    {
+      "key": "moveis",
+      "label": "DESIGN DE MÓVEIS",
+      "emoji": "🪑",
+      "q_en": "furniture designer interior product designer",
+      "q_pt": "designer de móveis projetista de mobiliário",
+      "themes": [
+        "remote furniture designer, interior product designer and freelance furniture design jobs worldwide"
+      ],
+      "pt_themes": [
+        "vagas remotas ou freelance de designer de móveis, projetista de mobiliário e designer de interiores no Brasil"
+      ]
+    },
+    {
+      "key": "motion",
+      "label": "MOTION DESIGN",
+      "emoji": "🎬",
+      "q_en": "motion designer animator 3D motion video editor",
+      "q_pt": "motion designer animador editor de vídeo",
+      "themes": [
+        "remote motion designer, animator, 3D motion and video editor jobs worldwide"
+      ],
+      "pt_themes": [
+        "vagas remotas de motion designer, animador e editor de vídeo no Brasil"
+      ]
+    }
+  ],
+  "job_ttl_days": 30,
+  "boards_world": [
+    "LinkedIn",
+    "We Work Remotely",
+    "Remote OK",
+    "Remotive",
+    "Himalayas",
+    "Wellfound"
+  ],
+  "boards_br": [
+    "Gupy",
+    "Trampos.co",
+    "Vagas.com",
+    "Revelo",
+    "Coodesh",
+    "LinkedIn Brasil"
+  ],
+  "boards_design": [
+    "Dribbble Jobs",
+    "Behance Job List",
+    "Working Nomads"
+  ]
+}
