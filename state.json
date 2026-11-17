@@ -1,0 +1,508 @@
+{
+ "events": {
+  "ardormedia2dmotiondesigner|lea": {
+   "acronym": "2D Motion Designer (креативщик / монтажер) · Ardor Media",
+   "category": "motion",
+   "company": "Ardor Media",
+   "deadline": "2026-12-13",
+   "id": 16,
+   "kind": "mundo",
+   "level": "lead",
+   "location": "Remoto (Worldwide)",
+   "name": "2D Motion Designer (креативщик / монтажер)",
+   "posted": "2026-11-13",
+   "real_deadline": false,
+   "reminded": [],
+   "salary": null,
+   "topics": [
+    "motion design",
+    "video editing",
+    "animation",
+    "gamedev"
+   ],
+   "url": "https://hirify.me/en/motion-design-remote-jobs"
+  },
+  "ardormediaaivideolead|lea": {
+   "acronym": "AI Video Lead · Ardor Media",
+   "category": "motion",
+   "company": "Ardor Media",
+   "deadline": "2026-12-13",
+   "id": 17,
+   "kind": "mundo",
+   "level": "lead",
+   "location": "Remoto (Worldwide)",
+   "name": "AI Video Lead",
+   "posted": "2026-11-13",
+   "real_deadline": false,
+   "reminded": [],
+   "salary": "1 200 - 1 500€",
+   "topics": [
+    "ai",
+    "motion design",
+    "blender",
+    "after effects",
+    "video generation"
+   ],
+   "url": "https://hirify.me/en/motion-design-remote-jobs"
+  },
+  "autoavaliardesigneruxuisnior|sên": {
+   "acronym": "Designer UX/UI Sênior · Auto Avaliar",
+   "category": "uiux",
+   "company": "Auto Avaliar",
+   "deadline": "2026-12-17",
+   "id": 7,
+   "kind": "brasil",
+   "level": "sênior",
+   "location": "Remoto (Brasil)",
+   "name": "Designer UX/UI Sênior",
+   "posted": null,
+   "real_deadline": false,
+   "reminded": [],
+   "salary": null,
+   "topics": [
+    "UI",
+    "UX",
+    "design system"
+   ],
+   "url": "https://br.linkedin.com/jobs/view/designer-ux-ui-s%C3%AAnior-at-auto-avaliar-4351059524"
+  },
+  "bairesdevuiuxdesignerremotework|": {
+   "acronym": "UI/UX Designer - Remote Work · BairesDev",
+   "category": "uiux",
+   "company": "BairesDev",
+   "deadline": "2026-12-17",
+   "id": 9,
+   "kind": "mundo",
+   "level": null,
+   "location": "Remoto (Worldwide)",
+   "name": "UI/UX Designer - Remote Work",
+   "posted": null,
+   "real_deadline": false,
+   "reminded": [],
+   "salary": null,
+   "topics": [
+    "UI",
+    "UX"
+   ],
+   "url": "https://br.linkedin.com/jobs/view/designer-pleno-ux-ui-at-topshare-4348519495"
+  },
+  "cdprojektredjuniormotiondesignerigaming|jún": {
+   "acronym": "Junior Motion Designer (iGaming) · CD Projekt RED",
+   "category": "motion",
+   "company": "CD Projekt RED",
+   "deadline": "2026-12-16",
+   "id": 15,
+   "kind": "mundo",
+   "level": "júnior",
+   "location": "Remoto (Worldwide)",
+   "name": "Junior Motion Designer (iGaming)",
+   "posted": "2026-11-16",
+   "real_deadline": false,
+   "reminded": [],
+   "salary": "1 200 - 1 500 USD",
+   "topics": [
+    "iGaming",
+    "motion design",
+    "video editing",
+    "after effects"
+   ],
+   "url": "https://hirify.me/en/motion-design-jobs"
+  },
+  "cgcreativestudiosseniormotiondesignerprojectbased|sen": {
+   "acronym": "Senior Motion Designer (Project‑Based) · CG CREATIVE STUDIOS",
+   "category": "motion",
+   "company": "CG CREATIVE STUDIOS",
+   "deadline": "2026-11-27",
+   "id": 21,
+   "kind": "mundo",
+   "level": "senior",
+   "location": "Remoto (Anywhere)",
+   "name": "Senior Motion Designer (Project‑Based)",
+   "posted": "2026-10-28",
+   "real_deadline": false,
+   "reminded": [],
+   "salary": null,
+   "topics": [
+    "motion design",
+    "project based"
+   ],
+   "url": "https://jobgether.com/remote-jobs/motion-designer"
+  },
+  "customaiagentsandfullstacksystemsforindiand2cbrandsuiuxdesigner|jún": {
+   "acronym": "UI/UX Designer · Custom AI agents and full-stack systems for Indian D2C brands",
+   "category": "uiux",
+   "company": "Custom AI agents and full-stack systems for Indian D2C brands",
+   "deadline": "2026-12-03",
+   "id": 10,
+   "kind": "mundo",
+   "level": "júnior",
+   "location": "Remoto (India)",
+   "name": "UI/UX Designer",
+   "posted": "2026-11-03",
+   "real_deadline": false,
+   "reminded": [],
+   "salary": null,
+   "topics": [
+    "UI",
+    "UX",
+    "Figma",
+    "Remote"
+   ],
+   "url": "https://wellfound.com/role/ui-ux-designer"
+  },
+  "designirluiuxdesigner|jún": {
+   "acronym": "UI/UX Designer · Design IRL",
+   "category": "uiux",
+   "company": "Design IRL",
+   "deadline": "2026-12-03",
+   "id": 11,
+   "kind": "mundo",
+   "level": "júnior",
+   "location": "Remoto (India)",
+   "name": "UI/UX Designer",
+   "posted": "2026-11-03",
+   "real_deadline": false,
+   "reminded": [],
+   "salary": null,
+   "topics": [
+    "UI",
+    "UX",
+    "Remote"
+   ],
+   "url": "https://wellfound.com/role/l/ui-ux-designer/india"
+  },
+  "develcodeuxproductdesigner|ple": {
+   "acronym": "UX/Product Designer · Develcode",
+   "category": "uiux",
+   "company": "Develcode",
+   "deadline": "2026-12-17",
+   "id": 1,
+   "kind": "brasil",
+   "level": "pleno",
+   "location": "Remoto (Brasil)",
+   "name": "UX/Product Designer",
+   "posted": null,
+   "real_deadline": false,
+   "reminded": [],
+   "salary": null,
+   "topics": [
+    "UX",
+    "research",
+    "design systems"
+   ],
+   "url": "https://www.remoterocketship.com/br/vagas/designer-de-produto"
+  },
+  "eccoxtechnologyuxdesignerpleno|ple": {
+   "acronym": "UX Designer - Pleno · Eccox Technology",
+   "category": "uiux",
+   "company": "Eccox Technology",
+   "deadline": "2026-12-17",
+   "id": 6,
+   "kind": "brasil",
+   "level": "pleno",
+   "location": "Remoto (Brasil)",
+   "name": "UX Designer - Pleno",
+   "posted": null,
+   "real_deadline": false,
+   "reminded": [],
+   "salary": null,
+   "topics": [
+    "UX",
+    "design systems",
+    "accessibility"
+   ],
+   "url": "https://br.linkedin.com/jobs/view/ux-designer-pleno-at-eccox-technology-4350932940"
+  },
+  "gismartmotiondesignerdancebit|jun": {
+   "acronym": "Motion Designer (DanceBit) · Gismart",
+   "category": "motion",
+   "company": "Gismart",
+   "deadline": "2026-11-29",
+   "id": 22,
+   "kind": "mundo",
+   "level": "junior",
+   "location": "Remoto (Europe)",
+   "name": "Motion Designer (DanceBit)",
+   "posted": "2026-10-30",
+   "real_deadline": false,
+   "reminded": [],
+   "salary": null,
+   "topics": [
+    "motion design",
+    "music",
+    "gaming"
+   ],
+   "url": "https://jobgether.com/remote-jobs/motion-designer"
+  },
+  "growthassistantainativemotiondesigner|": {
+   "acronym": "AI Native Motion Designer · GrowthAssistant",
+   "category": "motion",
+   "company": "GrowthAssistant",
+   "deadline": "2026-12-14",
+   "id": 19,
+   "kind": "mundo",
+   "level": null,
+   "location": "Remoto (LATAM)",
+   "name": "AI Native Motion Designer",
+   "posted": "2026-11-14",
+   "real_deadline": false,
+   "reminded": [],
+   "salary": "$300 sign‑on bonus",
+   "topics": [
+    "ai",
+    "motion design",
+    "video editing"
+   ],
+   "url": "https://arc.dev/remote-jobs/video-animation-design"
+  },
+  "hiddencompanyvideoeditormotiondesignerremotept6months|": {
+   "acronym": "Video Editor + Motion Designer (Remote | PT | 6 months) · Hidden Company",
+   "category": "motion",
+   "company": "Hidden Company",
+   "deadline": "2026-12-10",
+   "id": 18,
+   "kind": "brasil",
+   "level": null,
+   "location": "Remoto (Brasil)",
+   "name": "Video Editor + Motion Designer (Remote | PT | 6 months)",
+   "posted": "2026-11-10",
+   "real_deadline": false,
+   "reminded": [],
+   "salary": null,
+   "topics": [
+    "video editing",
+    "2D animation",
+    "after effects"
+   ],
+   "url": "https://us.remotejobs.dedyn.io/job/video-editor-motion-designer-remote-pt-6-months-2"
+  },
+  "hooneydesignerdeexperinciadousurio|": {
+   "acronym": "Designer de experiência do usuário · hooney+",
+   "category": "uiux",
+   "company": "hooney+",
+   "deadline": "2026-12-17",
+   "id": 3,
+   "kind": "brasil",
+   "level": null,
+   "location": "Remoto (Brasil)",
+   "name": "Designer de experiência do usuário",
+   "posted": null,
+   "real_deadline": false,
+   "reminded": [],
+   "salary": null,
+   "topics": [
+    "UX",
+    "research"
+   ],
+   "url": "https://br.linkedin.com/jobs/view/designer-de-experi%C3%AAncia-do-usu%C3%A1rio-at-hooney%2B-4349870818"
+  },
+  "metadesigneruxuiii|": {
+   "acronym": "Designer UX/UI II · Meta",
+   "category": "uiux",
+   "company": "Meta",
+   "deadline": "2026-12-17",
+   "id": 5,
+   "kind": "brasil",
+   "level": null,
+   "location": "Remoto (Brasil)",
+   "name": "Designer UX/UI II",
+   "posted": null,
+   "real_deadline": false,
+   "reminded": [],
+   "salary": null,
+   "topics": [
+    "UX",
+    "UI"
+   ],
+   "url": "https://br.linkedin.com/jobs/view/designer-ux-ui-ii-at-meta-4348461372"
+  },
+  "sellercrowdproductdesigner|": {
+   "acronym": "Product Designer · SellerCrowd",
+   "category": "uiux",
+   "company": "SellerCrowd",
+   "deadline": "2026-12-10",
+   "id": 14,
+   "kind": "mundo",
+   "level": null,
+   "location": "Remoto (United States)",
+   "name": "Product Designer",
+   "posted": "2026-11-10",
+   "real_deadline": false,
+   "reminded": [],
+   "salary": "$120k – $160k",
+   "topics": [
+    "product",
+    "remote"
+   ],
+   "url": "https://wellfound.com/role/l/product-designer/united-states"
+  },
+  "skeltbeautybrandsproductdesigneruxuicro|": {
+   "acronym": "Product Designer (UX/UI & CRO) · Skelt Beauty Brands",
+   "category": "produto",
+   "company": "Skelt Beauty Brands",
+   "deadline": "2026-12-17",
+   "id": 8,
+   "kind": "brasil",
+   "level": null,
+   "location": "Remoto (Brasil)",
+   "name": "Product Designer (UX/UI & CRO)",
+   "posted": null,
+   "real_deadline": false,
+   "reminded": [],
+   "salary": null,
+   "topics": [
+    "product",
+    "UX",
+    "CRO"
+   ],
+   "url": "https://br.linkedin.com/jobs/view/designer-pleno-ux-ui-at-topshare-4348519495"
+  },
+  "studiohiddenmotiongraphicsdesigner|": {
+   "acronym": "Motion Graphics Designer · Studio hidden",
+   "category": "motion",
+   "company": "Studio hidden",
+   "deadline": "2026-11-26",
+   "id": 24,
+   "kind": "mundo",
+   "level": null,
+   "location": "Remoto (United States)",
+   "name": "Motion Graphics Designer",
+   "posted": "2026-10-27",
+   "real_deadline": false,
+   "reminded": [],
+   "salary": "$17 to $35 per hour",
+   "topics": [
+    "motion graphics"
+   ],
+   "url": "https://artblast.co/remote-motion-designer-jobs"
+  },
+  "studiohiddensenior2dmotiondesigner|sen": {
+   "acronym": "Senior 2D Motion Designer · Studio hidden",
+   "category": "motion",
+   "company": "Studio hidden",
+   "deadline": "2026-11-26",
+   "id": 23,
+   "kind": "mundo",
+   "level": "senior",
+   "location": "Remoto (Poland)",
+   "name": "Senior 2D Motion Designer",
+   "posted": "2026-10-27",
+   "real_deadline": false,
+   "reminded": [],
+   "salary": null,
+   "topics": [
+    "2D motion",
+    "design"
+   ],
+   "url": "https://artblast.co/remote-motion-designer-jobs"
+  },
+  "topsharedesignerplenouxui|ple": {
+   "acronym": "Designer Pleno (UX/UI) · Topshare",
+   "category": "uiux",
+   "company": "Topshare",
+   "deadline": "2026-12-17",
+   "id": 2,
+   "kind": "brasil",
+   "level": "pleno",
+   "location": "Remoto (Brasil)",
+   "name": "Designer Pleno (UX/UI)",
+   "posted": null,
+   "real_deadline": false,
+   "reminded": [],
+   "salary": null,
+   "topics": [
+    "UI",
+    "UX",
+    "CRO"
+   ],
+   "url": "https://br.linkedin.com/jobs/view/designer-pleno-ux-ui-at-topshare-4348519495"
+  },
+  "uitifyproductdesigneruxui|": {
+   "acronym": "Product Designer (UX/UI) · Uitify",
+   "category": "produto",
+   "company": "Uitify",
+   "deadline": "2026-12-17",
+   "id": 4,
+   "kind": "brasil",
+   "level": null,
+   "location": "Remoto (Brasil)",
+   "name": "Product Designer (UX/UI)",
+   "posted": null,
+   "real_deadline": false,
+   "reminded": [],
+   "salary": null,
+   "topics": [
+    "product",
+    "UX",
+    "UI"
+   ],
+   "url": "https://br.linkedin.com/jobs/view/product-designer-ux-ui-at-uitify-4348777559"
+  },
+  "variouslinkedinlistingsfreelancemotiongraphicdesigner|fre": {
+   "acronym": "Freelance Motion Graphic Designer · Various",
+   "category": "motion",
+   "company": "Various (LinkedIn listings)",
+   "deadline": "2026-12-12",
+   "id": 20,
+   "kind": "brasil",
+   "level": "freelance",
+   "location": "Remoto (Brasil)",
+   "name": "Freelance Motion Graphic Designer",
+   "posted": "2026-11-12",
+   "real_deadline": false,
+   "reminded": [],
+   "salary": null,
+   "topics": [
+    "motion graphics",
+    "video editing"
+   ],
+   "url": "https://br.linkedin.com/jobs/freelance-motion-graphic-designer-vagas"
+  },
+  "wellfoundlistingseniorproductdesignerwithstrongaiexperience|sên": {
+   "acronym": "Senior Product Designer (with strong AI experience) · Wellfound Listing",
+   "category": "produto",
+   "company": "Wellfound Listing",
+   "deadline": "2026-12-15",
+   "id": 12,
+   "kind": "mundo",
+   "level": "sênior",
+   "location": "Remoto (Worldwide)",
+   "name": "Senior Product Designer (with strong AI experience)",
+   "posted": "2026-11-15",
+   "real_deadline": false,
+   "reminded": [],
+   "salary": "$75k – $155k",
+   "topics": [
+    "AI",
+    "product design",
+    "remote"
+   ],
+   "url": "https://wellfound.com/role/r/product-designer?page=4"
+  },
+  "zedindustriesdesigner|": {
+   "acronym": "Designer · Zed Industries",
+   "category": "uiux",
+   "company": "Zed Industries",
+   "deadline": "2026-12-10",
+   "id": 13,
+   "kind": "mundo",
+   "level": null,
+   "location": "Remoto (Worldwide)",
+   "name": "Designer",
+   "posted": "2026-11-10",
+   "real_deadline": false,
+   "reminded": [],
+   "salary": "د.إ39k – د.إ47k",
+   "topics": [
+    "design",
+    "remote"
+   ],
+   "url": "https://wellfound.com/role/r/product-designer?page=7"
+  }
+ },
+ "ignored": [],
+ "next_id": 25,
+ "next_sub": 1,
+ "offset": 37884420,
+ "subs": []
+}
