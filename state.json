@@ -544,6 +544,27 @@
    "topics": [],
    "url": "https://wellfound.com/role/r/designer"
   },
+  "levelfivedesignsseniorinteriordesignerdesigndevelopment|sên": {
+   "acronym": "Senior Interior Designer | Design Development · Level Five Designs",
+   "category": "moveis",
+   "company": "Level Five Designs",
+   "deadline": "2026-12-23",
+   "id": 60,
+   "kind": "mundo",
+   "level": "sênior",
+   "location": "Remoto (Worldwide)",
+   "name": "Senior Interior Designer | Design Development",
+   "posted": "2026-11-23",
+   "real_deadline": false,
+   "reminded": [],
+   "salary": null,
+   "topics": [
+    "interior",
+    "design",
+    "senior"
+   ],
+   "url": "https://www.linkedin.com/jobs/remote-interior-design-jobs"
+  },
   "linkedinvariouscompaniesfreelancemotiongraphicdesigner|": {
    "acronym": "Freelance Motion Graphic Designer · LinkedIn",
    "category": "motion",
@@ -605,6 +626,28 @@
     "UI"
    ],
    "url": "https://br.linkedin.com/jobs/view/designer-ux-ui-ii-at-meta-4348461372"
+  },
+  "newgenfreelancemotiondesigneranimator|": {
+   "acronym": "Freelance Motion Designer / Animator · NewGen",
+   "category": "motion",
+   "company": "NewGen",
+   "deadline": "2026-12-23",
+   "id": 67,
+   "kind": "mundo",
+   "level": null,
+   "location": "Remoto (Worldwide)",
+   "name": "Freelance Motion Designer / Animator",
+   "posted": "2026-11-23",
+   "real_deadline": false,
+   "reminded": [],
+   "salary": "$300 - $600 / day",
+   "topics": [
+    "motion design",
+    "animation",
+    "freelance",
+    "remote"
+   ],
+   "url": "https://www.remoterocketship.com/us/jobs/motion-designer"
   },
   "newgenmarketingadvertisingagenciesfreelancemotiondesigneranimator|mid": {
    "acronym": "Freelance Motion Designer / Animator · NewGen",
@@ -832,6 +875,27 @@
    ],
    "url": "https://weworkremotely.com/categories/remote-ux-ui-design-jobs"
   },
+  "seatgeeksenioruxdesigner|sên": {
+   "acronym": "Senior UX Designer · Seat Geek",
+   "category": "uiux",
+   "company": "Seat Geek",
+   "deadline": "2026-12-05",
+   "id": 59,
+   "kind": "mundo",
+   "level": "sênior",
+   "location": "Remoto (Worldwide)",
+   "name": "Senior UX Designer",
+   "posted": "2026-11-05",
+   "real_deadline": false,
+   "reminded": [],
+   "salary": "$100,000 or more USD",
+   "topics": [
+    "UX",
+    "design systems",
+    "remote"
+   ],
+   "url": "https://weworkremotely.com/categories/remote-ux-ui-design-jobs"
+  },
   "sellercrowdproductdesigner|": {
    "acronym": "Product Designer · SellerCrowd",
    "category": "uiux",
@@ -851,6 +915,28 @@
     "remote"
    ],
    "url": "https://wellfound.com/role/l/product-designer/united-states"
+  },
+  "signetjewelerssrdesignerrealestateluxuryjewelryremote|sên": {
+   "acronym": "Sr. Designer Real Estate - Luxury Jewelry (REMOTE) · Signet Jewelers",
+   "category": "moveis",
+   "company": "Signet Jewelers",
+   "deadline": "2026-12-23",
+   "id": 61,
+   "kind": "mundo",
+   "level": "sênior",
+   "location": "Remoto (Worldwide)",
+   "name": "Sr. Designer Real Estate - Luxury Jewelry (REMOTE)",
+   "posted": "2026-11-23",
+   "real_deadline": false,
+   "reminded": [],
+   "salary": null,
+   "topics": [
+    "real estate",
+    "luxury",
+    "jewelry",
+    "senior"
+   ],
+   "url": "https://www.linkedin.com/jobs/remote-interior-design-jobs"
   },
   "skeltbeautybrandsproductdesigneruxuicro|": {
    "acronym": "Product Designer (UX/UI & CRO) · Skelt Beauty Brands",
@@ -912,6 +998,68 @@
    ],
    "url": "https://artblast.co/remote-motion-designer-jobs"
   },
+  "synthiresseniorproductdesignerremote160k250kyear|sên": {
+   "acronym": "Senior Product Designer (Remote | $160K–$250K/year) · Synthires",
+   "category": "produto",
+   "company": "Synthires",
+   "deadline": "2026-12-23",
+   "id": 62,
+   "kind": "mundo",
+   "level": "sênior",
+   "location": "Remoto (Worldwide)",
+   "name": "Senior Product Designer (Remote | $160K–$250K/year)",
+   "posted": "2026-11-23",
+   "real_deadline": false,
+   "reminded": [],
+   "salary": "$160K–$250K/year",
+   "topics": [
+    "product",
+    "design",
+    "senior"
+   ],
+   "url": "https://www.linkedin.com/jobs/remote-product-designer-jobs-chicago-il"
+  },
+  "synthiresvisualproductdesignerremote160k250kyear|ple": {
+   "acronym": "Visual Product Designer (Remote | $160K–$250K/year) · Synthires",
+   "category": "uiux",
+   "company": "Synthires",
+   "deadline": "2026-12-23",
+   "id": 64,
+   "kind": "mundo",
+   "level": "pleno",
+   "location": "Remoto (Worldwide)",
+   "name": "Visual Product Designer (Remote | $160K–$250K/year)",
+   "posted": "2026-11-23",
+   "real_deadline": false,
+   "reminded": [],
+   "salary": "$160K–$250K/year",
+   "topics": [
+    "visual",
+    "product",
+    "design"
+   ],
+   "url": "https://www.linkedin.com/jobs/remote-design-jobs-chicago-il"
+  },
+  "tebraproductdesigner|": {
+   "acronym": "Product Designer · Tebra",
+   "category": "uiux",
+   "company": "Tebra",
+   "deadline": "2026-12-23",
+   "id": 65,
+   "kind": "mundo",
+   "level": null,
+   "location": "Remoto (Worldwide)",
+   "name": "Product Designer",
+   "posted": "2026-11-23",
+   "real_deadline": false,
+   "reminded": [],
+   "salary": null,
+   "topics": [
+    "product",
+    "design"
+   ],
+   "url": "https://weworkremotely.com/categories/remote-design-jobs"
+  },
   "thatchbranddesigner|": {
    "acronym": "Brand Designer · Thatch",
    "category": "grafico",
@@ -951,6 +1099,27 @@
     "CRO"
    ],
    "url": "https://br.linkedin.com/jobs/view/designer-pleno-ux-ui-at-topshare-4348519495"
+  },
+  "topstepstaffproductdesignervisualexperiencedesign|ple": {
+   "acronym": "Staff Product Designer, Visual & Experience Design · Topstep",
+   "category": "uiux",
+   "company": "Topstep",
+   "deadline": "2026-12-23",
+   "id": 63,
+   "kind": "mundo",
+   "level": "pleno",
+   "location": "Remoto (Worldwide)",
+   "name": "Staff Product Designer, Visual & Experience Design",
+   "posted": "2026-11-23",
+   "real_deadline": false,
+   "reminded": [],
+   "salary": null,
+   "topics": [
+    "visual",
+    "experience",
+    "design"
+   ],
+   "url": "https://www.linkedin.com/jobs/remote-product-designer-jobs-chicago-il"
   },
   "uitifyproductdesigneruxui|": {
    "acronym": "Product Designer (UX/UI) · Uitify",
@@ -1068,6 +1237,28 @@
     "remote"
    ],
    "url": "https://www.ziprecruiter.com/Jobs/Virtual-Interior-Designer/-in-Atlanta,GA"
+  },
+  "variousziprecruiterlistingremote3dmotiondesigner|": {
+   "acronym": "Remote 3D Motion Designer · Various",
+   "category": "motion",
+   "company": "Various (ZipRecruiter listing)",
+   "deadline": "2026-12-24",
+   "id": 66,
+   "kind": "mundo",
+   "level": null,
+   "location": "Remoto (Worldwide)",
+   "name": "Remote 3D Motion Designer",
+   "posted": "2026-11-24",
+   "real_deadline": false,
+   "reminded": [],
+   "salary": "$27-$120/hr",
+   "topics": [
+    "3D",
+    "motion design",
+    "animation",
+    "remote"
+   ],
+   "url": "https://www.ziprecruiter.com/Jobs/Remote-3D-Motion-Designer"
   },
   "vfphospitalveterinriovideomakerperformanceelanamentos|": {
    "acronym": "Video Maker | Performance e Lançamentos · VFP Hospital Veterinário",
@@ -1194,7 +1385,7 @@
   }
  },
  "ignored": [],
- "next_id": 59,
+ "next_id": 68,
  "next_sub": 1,
  "offset": 37884420,
  "subs": []
